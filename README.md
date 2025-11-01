@@ -1,12 +1,12 @@
-Ex04 Places Around Me
+## Ex04 Places Around Me
 
-Date: 30-10-2025
+# Date: 30-10-2025
 
-AIM
+# AIM
 
 To develop a website to display details about the places around my house.
 
-DESIGN STEPS
+# DESIGN STEPS
 
 STEP 1
 
@@ -32,7 +32,7 @@ STEP 6
 
 Execute the programs and publish them.
 
-CODE
+# CODE
 ```
 map.html :
 
@@ -177,7 +177,7 @@ Alvars Thirumangai Alvar and Thirumzhisai Alvar which are referred to as Divya P
 </html>
 ```
 
-OUTPUT
+# OUTPUT
 <img width="1917" height="1146" alt="Screenshot 2025-10-24 192238" src="https://github.com/user-attachments/assets/c6ec6504-e8a0-4ed0-835d-dfef40fa4c4e" />
   
 <img width="1913" height="1144" alt="Screenshot 2025-10-24 192327" src="https://github.com/user-attachments/assets/9185d5d3-edbd-4b50-8ab7-535b5beff849" />
@@ -190,5 +190,5 @@ OUTPUT
 
 <img width="1915" height="1148" alt="Screenshot 2025-10-24 192910" src="https://github.com/user-attachments/assets/1723fed3-dc22-4bb5-8a2e-48c6d740a2da" />
 
-RESULT
+# RESULT
 The program for implementing image maps using HTML is executed successfully.
